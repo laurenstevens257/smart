@@ -1,0 +1,32 @@
+
+.App {
+  font-family: sans-serif;
+  padding: 2rem;
+  max-width: 800px;
+  margin: auto;
+}
+input {
+  width: 100%;
+  padding: 0.5rem;
+  margin-bottom: 1rem;
+}
+button {
+  margin-right: 0.5rem;
+  margin-bottom: 1rem;
+  padding: 0.5rem 1rem;
+  cursor: pointer;
+}
+.proposal-preview section {
+  border: 1px solid #ccc;
+  padding: 1rem;
+  margin-bottom: 1rem;
+}
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+th, td {
+  border: 1px solid #ccc;
+  padding: 0.5rem;
+  text-align: left;
+}
